@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-PODPOC-PODPOCTests/Pods-PODPOC-PODPOCTests-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SendBirdCalls/SendBirdCalls.framework/SendBirdCalls
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SendBirdWebRTC/WebRTC.framework/WebRTC
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SendbirdChatSDK/SendbirdChatSDK.framework/SendbirdChatSDK

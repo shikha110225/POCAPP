@@ -1,0 +1,24 @@
+PODS:
+  - SendBirdCalls (1.10.16):
+    - SendBirdWebRTC (~> 1.7.0)
+  - SendbirdChatSDK (4.0.15)
+  - SendBirdWebRTC (1.7.0)
+
+DEPENDENCIES:
+  - SendBirdCalls (= 1.10.16)
+  - SendbirdChatSDK (~> 4.0.0)
+
+SPEC REPOS:
+  trunk:
+    - SendBirdCalls
+    - SendbirdChatSDK
+    - SendBirdWebRTC
+
+SPEC CHECKSUMS:
+  SendBirdCalls: 318ffaf1e8d3e5e4263c269f15a7b10d69ca808a
+  SendbirdChatSDK: 04eee2f312837076f495e29995354d4eb7f88ad5
+  SendBirdWebRTC: e744ce54ca9108bed13c3f03c301ecf48edaaf80
+
+PODFILE CHECKSUM: 155f15037fe203aa2bddf9ec42570619074a0518
+
+COCOAPODS: 1.13.0
